@@ -1,4 +1,4 @@
-export default currencyConventor = (price, baseCurrency, targetCurrency) => {
+export default currencyconventor = (price, baseCurrency, targetCurrency) => {
     axios.get('http://data.fixer.io/api/latest?access_key=5cd55a2f9de07d559e48ee9cbdf4e6b1')
     .then(function(response){
         const currentRateList = response.data.rates;

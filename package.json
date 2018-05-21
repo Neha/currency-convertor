@@ -1,6 +1,6 @@
 {
   "name": "@nehasharma/currencyconventor",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "NPM for currency conventor",
   "main": "index.js",
   "scripts": {
