@@ -8,9 +8,7 @@ export default currencyConventor = (price, baseCurrency, targetCurrency) => {
 
         const targetCurrencyRate = (response.data.rates[targetCurrency]).toFixed(2);
         const currentRate_BASEEUR = (response.data.rates[baseCurrency]).toFixed(2);
-        console.log(response.data.rates[baseCurrency]);
        
-
         if(baseCurrency === 'EUR'){
             const value = (price * targetCurrencyRate).toFixed(2);
             return value;

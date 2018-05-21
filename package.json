@@ -7,10 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "currency conventor", 
+    "currency conventor",
     "USD TO INR",
     "currency"
   ],
   "author": "Neha Sharma [neha@jslovers.com]",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
