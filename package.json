@@ -1,14 +1,14 @@
 {
-    "name": "@nehasharma/currencyconventor",
-    "version": "4.1.0",
-    "description": "NPM for currency conventor",
+    "name": "@nehasharma/currencyconverter",
+    "version": "4.2.0",
+    "description": "NPM for currency converter",
     "main": "dist/index.js",
     "scripts": {
         "build": "NODE_ENV=production webpack",
         "start": "webpack"
     },
     "keywords": [
-        "currency conventor",
+        "currency converter",
         "USD TO INR",
         "currency"
     ],
