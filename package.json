@@ -1,7 +1,7 @@
 {
-    "name": "@nehasharma/currencyconverter",
-    "version": "4.4.0",
-    "description": "NPM for currency converter",
+    "name": "@nehasharma/currencyconvertor",
+    "version": "4.5.0",
+    "description": "NPM for currency has",
     "main": "dist/index.js",
     "scripts": {
         "build": "NODE_ENV=production webpack",
