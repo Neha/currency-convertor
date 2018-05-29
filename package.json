@@ -1,6 +1,6 @@
 {
     "name": "@nehasharma/currencyconvertor",
-    "version": "4.5.0",
+    "version": "4.6.0",
     "description": "NPM for currency has",
     "main": "dist/index.js",
     "scripts": {
